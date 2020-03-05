@@ -1,2 +1,2 @@
 # ML701_semi_supervised_learning
-Semi supervised learning project for ML701
+Semi supervised learning project for ML-701
